@@ -141,7 +141,7 @@ You should send your queries and programs as well as the output!!!
 You can work either in Aramis or Ullman database.
 ------------------------------------------------------------------------
 5. (10 points)
-Give the name and size of the Hash clusters whose owner is ’NIKOVITS’ (Cluster_name, Size)
+Give the name and size of the Hash clusters whose owner is â€™NIKOVITSâ€™ (Cluster_name, Size)
 ------------------------------------------------------------------------
 Solution:
 
@@ -181,7 +181,6 @@ You can check your program with the following:
 set serveroutput on
 EXECUTE check_plsql('nt_tabs()');
 
---had errors, could you give partial points?
 ------------------------------------------------------------------------
 Solution:
 ... copy here the PL/SQL program and the output ...
