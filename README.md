@@ -94,3 +94,15 @@ db2_practice7.txt
 -----------
 Consistency, failures, logging, recovery
 (09_UW_Crash_recovery.pptx, UW_Ch_17.pdf)
+
+Practice:
+db2_practice8.txt
+
+10th lecture
+-----------
+Logging, recovery (cont.)
+Concurrency control; schedule, serializable, conflict-serializable, precedence graph
+(10_UW_Concurrency.pptx)
+
+Practice:
+db2_practice9.txt
