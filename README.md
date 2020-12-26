@@ -106,3 +106,13 @@ Concurrency control; schedule, serializable, conflict-serializable, precedence g
 
 Practice:
 db2_practice9.txt
+
+11th lecture
+-----------
+Concurrency control (cont.)
+(10_UW_Concurrency.pptx pages 26- ..., UW_Ch_18.pdf)
+
+Practice:
+db2_practice10.txt
+test2_compulsory.txt
+Some help for graph drawing in exercises: https://app.diagrams.net/ and graph_draw.svg 
