@@ -2,7 +2,7 @@
 Fall semester 2020.
 
 What I learned in this course:
-p.s. find necessary files in docs.
+
 
 1st lecture
 -----------
