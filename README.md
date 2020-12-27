@@ -116,3 +116,24 @@ Practice:
 db2_practice10.txt
 test2_compulsory.txt
 Some help for graph drawing in exercises: https://app.diagrams.net/ and graph_draw.svg 
+
+12th lecture
+-----------
+Concurrency control (cont.)
+(10_UW_Concurrency.pptx pages 72-128, UW_Ch_18.pdf)
+
+Practice:
+db2_practice10.txt
+Some help for graph drawing in exercises: https://app.diagrams.net/ and graph_draw.svg 
+
+13th lecture
+-----------
+Logging and recovery (undo, redo) in Oracle.
+Transactions, isolation levels, locks in Oracle.
+(11_Oracle_reansactions.docx)
+Summary, help for the exam (Exam_questions.docx)
+
+Practice:
+************************************************
+Endterm test from practice --> December 8th !!!
+************************************************
