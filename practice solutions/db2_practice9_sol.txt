@@ -12,7 +12,6 @@ Output (x):  system writes block containing x to disk
 Read (x,t):  read x into transaction's local variable t (input(x) if necessary)
 Write (x,t): write value of t into x in memory (input(x) if necessary)
 t:= ...      give new value to local variable t
-
 --------------------------------------------------------------------------------
 Exercise 17.1.2: 
 For each of the transactions of Exercise 17.1.1, add the
